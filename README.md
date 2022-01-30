@@ -32,7 +32,7 @@ void initState() {
     );
 }
 
-// Dipose the listener
+// Dispose the listener
 @override
 void dispose() {
     _connectionListener.dispose();
