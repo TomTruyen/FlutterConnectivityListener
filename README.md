@@ -49,4 +49,4 @@ void dispose() {
 
 ## Demo
 
-<img src="assets/example.gif" width="200" height="429"/>
+<img src="https://raw.githubusercontent.com/TomTruyen/FlutterConnectivityListener/main/assets/example.gif" width="200" height="429"/>
