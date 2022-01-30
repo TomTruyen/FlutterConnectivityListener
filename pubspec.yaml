@@ -1,7 +1,7 @@
 name: connectivity_listener
 description: A flutter package for both Android and iOS which provides a connection listener to determine if the app has an active internet connection
 version: 0.0.1
-homepage:
+homepage: https://github.com/TomTruyen/FlutterConnectivityListener
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
